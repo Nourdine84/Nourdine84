@@ -1,41 +1,93 @@
-# 👋 Salut, moi c’est Nourdine
+}
+# 👋 Salut, moi c’est Nourdine  
 
-📱 **Spécialiste en tests mobiles (QA)** sur des projets logiciels d’envergure  
-💡 Je développe actuellement **eTix**, un projet personnel qui me permet de monter en compétences en **Kotlin (Android)** et bientôt **Swift (iOS)**  
-🚀 Passionné par l’Agile, Git, CI/CD et les bonnes pratiques de Tests et de développement  
+<p align="center">
+🚀 QA Engineer | 📱 Mobile Specialist | 🤖 AI-driven Builder  
+</p>
+
+---
+
+## 🧠 À propos de moi  
+
+📱 Spécialiste QA avec une forte expérience sur des projets mobiles et web  
+🤖 J’intègre l’intelligence artificielle dans mes workflows pour accélérer le dev et améliorer la qualité  
+💡 Builder : je développe des projets concrets (mobile + e-commerce)  
 🌍 Basé en France  
 
----
-
-## 🔭 Projets en cours
-- 📲 **[eTix](https://github.com/Nourdine84/eTix)** : application mobile innovante pour dématérialiser et organiser ses tickets d’achat.  
-  👉 Objectif : transformer une idée perso en projet complet **Android + iOS**, tout en développant mes compétences en développement natif.  
+👉 Mon objectif : devenir un profil hybride QA + Dev + IA
 
 ---
 
-## 🛠️ Compétences
-- **QA & Tests mobiles** : automatisation, stratégie QA, suivi des releases  
-- **Langages** : Kotlin (Android), Swift (iOS en cours), SQL, Bash  
-- **Outils** : Android Studio, GitHub, GitLab, Jenkins, Jira  
-- **Méthodes** : Agile/Scrum, CI/CD, bonnes pratiques QA  
+## 🚀 Projets principaux  
+
+### 📲 eTix — Mobile App (Android & iOS)  
+> Application de gestion de tickets (scan, organisation, analyse)
+
+- Kotlin (Android) / Swift (iOS en cours)  
+- Architecture MVVM + Room / CoreData  
+- UX iOS-like premium  
+- OCR (offline-first)  
+- Approche QA complète (tests + stabilité)
 
 ---
 
-## 📊 Stats GitHub
-![Nourdine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourdine84&show_icons=true&theme=blueberry)
+### 🛒 VanilleOr — E-commerce premium  
+> Boutique en ligne autour de la vanille haut de gamme  
+
+- Next.js / Prisma / Stripe  
+- Expérience utilisateur premium  
+- Paiement sécurisé  
+- Tests E2E en cours (Playwright)  
 
 ---
 
-## 📦 Dernier APK eTix
-[![Android CI](https://github.com/Nourdine84/eTix/actions/workflows/android-ci.yml/badge.svg)](https://github.com/Nourdine84/eTix/actions)
+## 🛠️ Stack & Compétences  
 
-🔗 Télécharge l’APK auto-généré depuis l’onglet [Actions](https://github.com/Nourdine84/eTix/actions) → clique sur le dernier run → **Artifacts** → `app-debug-apk.zip`
+### 🧪 QA  
+- Tests fonctionnels / exploratoires / régression  
+- Stratégie QA & couverture complète  
+- Automatisation (Appium, Playwright)  
+- Debugging réseau (Charles Proxy)
+
+### 💻 Dev  
+- Kotlin  
+- Swift (en cours)  
+- TypeScript / Next.js  
+- SQL / Prisma  
+
+### 🤖 IA  
+- Assistance au développement  
+- Optimisation de code  
+- Génération de scénarios de tests  
+- Accélération des workflows  
+
+### ⚙️ Outils  
+- Android Studio / Xcode  
+- GitHub / GitLab  
+- Jenkins / CI/CD  
+- Jira / Xray  
+- Postman / Swagger  
 
 ---
 
-## 📫 Me contacter
-- ✉️ msanourdine@hotmail.com
-- 💼 [LinkedIn] http://linkedin.com/in/nourdine-m’sa-576b26176
+## 📊 Stats GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nourdine84&show_icons=true" />
+</p>
 
 ---
-✨ Ce profil est en évolution → j’y partage mon aventure QA & dev à travers le projet eTix !
+
+## 🎯 Vision  
+
+Construire des produits fiables, performants et modernes, en combinant :  
+👉 QA rigoureuse  
+👉 Développement solide  
+👉 Puissance de l’IA  
+
+---
+
+## 🤝 Contact  
+
+💼 Ouvert aux opportunités QA / Mobile / Web  
+📩 Dispo pour échanger, collaborer ou builder 🚀
