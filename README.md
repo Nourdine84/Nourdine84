@@ -1,10 +1,11 @@
 }
 # 👋 Salut, moi c’est Nourdine  
 
-<p align="center">
-🚀 QA Engineer | 📱 Mobile Specialist | 🤖 AI-driven Builder  
-</p>
-
+QA Engineer avec plus de 6 ans d’expérience, spécialisé dans :
+	•	📱 Tests mobile (Android / iOS)
+	•	🌐 Applications web & e-commerce
+	•	🤖 Automation (Appium, Playwright)
+	•	🔍 Debug & analyse réseau (Charles Proxy, API)
 ---
 
 ## 🧠 À propos de moi  
@@ -26,18 +27,21 @@
 - Kotlin (Android) / Swift (iOS en cours)  
 - Architecture MVVM + Room / CoreData  
 - UX iOS-like premium  
-- OCR (offline-first)  
+- OCR (V2)  
 - Approche QA complète (tests + stabilité)
 
 ---
 
 ### 🛒 VanilleOr — E-commerce premium  
-> Boutique en ligne autour de la vanille haut de gamme  
+> Boutique en ligne autour de la vanille & épices haut de gamme  
 
 - Next.js / Prisma / Stripe  
 - Expérience utilisateur premium  
 - Paiement sécurisé  
-- Tests E2E en cours (Playwright)  
+- Tests E2E en cours (Playwright)
+- Stripe Checkout
+- SEO & Branding premium
+  
 
 ---
 
@@ -73,16 +77,17 @@
 ## 📊 Stats GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourdine84&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nourdine84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Nourdine84&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
 
 ## 🚀 Stats GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nourdine84&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,swift,js,ts,nextjs,nodejs,react,postgres,prisma,git,github" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nourdine84&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourdine84&layout=compact&theme=tokyonight)
 
 ---
 
@@ -92,6 +97,10 @@ Construire des produits fiables, performants et modernes, en combinant :
 👉 QA rigoureuse  
 👉 Développement solide  
 👉 Puissance de l’IA  
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nourdine84&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -99,3 +108,10 @@ Construire des produits fiables, performants et modernes, en combinant :
 
 💼 Ouvert aux opportunités QA / Mobile / Web  
 📩 Dispo pour échanger, collaborer ou builder 🚀
+
+---
+
+<p align="center">
+🔥 Building quality products & scalable systems 🔥
+</p>
+
