@@ -1,4 +1,4 @@
-}
+
 # 👋 Salut, moi c’est Nourdine  
 
 QA Engineer avec plus de 6 ans d’expérience, spécialisé dans :
