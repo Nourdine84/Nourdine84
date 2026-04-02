@@ -76,6 +76,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nourdine84&show_icons=true" />
 </p>
 
+## 🚀 Stats GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nourdine84&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nourdine84&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourdine84&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🎯 Vision  
