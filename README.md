@@ -90,7 +90,7 @@ QA Engineer avec plus de 6 ans d’expérience, spécialisé dans :
 
 
 ---
-
+![Playwright Tests](https://github.com/Nourdine84/vanille-shop/actions/workflows/playwright.yml/badge.svg)
 ## 🎯 Vision  
 
 Construire des produits fiables, performants et modernes, en combinant :  
