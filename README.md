@@ -35,6 +35,16 @@ QA Engineer avec plus de 6 ans d’expérience, spécialisé dans :
 ### 🛒 VanilleOr — E-commerce premium  
 > Boutique en ligne autour de la vanille & épices haut de gamme  
 
+---
+[![E2E Tests](https://github.com/Nourdine84/vanille-shop/actions/workflows/playwright.yml/badge.svg)](https://github.com/Nourdine84/vanille-shop/actions/workflows/playwright.yml)
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-green?logo=playwright)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-purple?logo=stripe)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-blue?logo=prisma)
+![Status](https://img.shields.io/badge/status-production_ready-brightgreen)
+
+
 - Next.js / Prisma / Stripe  
 - Expérience utilisateur premium  
 - Paiement sécurisé  
@@ -45,13 +55,40 @@ QA Engineer avec plus de 6 ans d’expérience, spécialisé dans :
 
 ---
 
-## 🛠️ Stack & Compétences  
+## 📦 Fonctionnalités
 
-### 🧪 QA  
-- Tests fonctionnels / exploratoires / régression  
-- Stratégie QA & couverture complète  
-- Automatisation (Appium, Playwright)  
-- Debugging réseau (Charles Proxy)
+- Panier dynamique
+- Checkout sécurisé
+- Recommandations produits
+- Admin panel
+
+---
+
+## 🔥 CI/CD
+
+Pipeline automatisé avec GitHub Actions :
+- Build
+- Tests E2E
+- Rapport Playwright
+
+---
+
+## 🛠️ Stack & Compétences  
+- Next.js 14
+- Prisma + PostgreSQL
+- Stripe
+- Playwright
+---
+
+### 🧪 QA & Tests 
+- ✅Tests fonctionnels / exploratoires / régression  
+- ✅Stratégie QA & couverture complète  
+- ✅Automatisation (Appium, Playwright)  
+- ✅Debugging réseau (Charles Proxy)
+- ✅ Playwright E2E
+- ✅ Mock Stripe sécurisé
+- ✅ Tests panier & checkout stabilisés
+- ✅ Compatible CI/CD
 
 ### 💻 Dev  
 - Kotlin  
